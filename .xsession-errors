@@ -1,0 +1,460 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/29999/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/oem/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting LANG=ru_RU.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=ru
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/oem
+dbus-update-activation-environment: setting USER=oem
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+dbus-update-activation-environment: setting PWD=/home/oem
+dbus-update-activation-environment: setting HOME=/home/oem
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/oem/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/29999/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=ru_RU:ru
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting LOGNAME=oem
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/29999/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/29999
+dbus-update-activation-environment: setting XAUTHORITY=/home/oem/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_TIME=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 16:42:23.012: couldn't access control socket: /run/user/29999/keyring/control: Нет такого файла или каталога
+** Message: 16:42:23.013: couldn't access control socket: /run/user/29999/keyring/control: Нет такого файла или каталога
+** Message: 16:42:23.015: couldn't access control socket: /run/user/29999/keyring/control: Нет такого файла или каталога
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+[cinnamon-settings-daemon-smartcard] Failed to start: не удалось найти подходящий драйвер смарт-карт
+
+(nm-applet:1517): Gtk-WARNING **: 16:42:25.206: Can't set a parent on widget which has a parent
+Cjs-Message: 16:42:25.278: JS LOG: About to start Cinnamon
+Cjs-Message: 16:42:25.420: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 138 ms
+Cjs-Message: 16:42:25.429: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Linux Mint/cinnamon/cinnamon.css
+Cjs-Message: 16:42:25.466: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Linux Mint/cinnamon
+** Message: 16:42:25.513: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 16:42:25.646: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+St-Message: 16:42:25.652: cogl npot texture sizes SUPPORTED
+Cjs-Message: 16:42:25.670: JS LOG: [LookingGlass/info] loaded at Fri Apr 12 2019 16:42:25 GMT+0300 (EEST)
+Cjs-Message: 16:42:25.671: JS LOG: Cinnamon started at Fri Apr 12 2019 16:42:25 GMT+0300 (EEST)
+Cjs-Message: 16:42:25.722: JS LOG: [LookingGlass/info] ExtensionSystem started in 2 ms
+Cjs-Message: 16:42:25.723: JS LOG: [LookingGlass/info] DeskletManager started in 2 ms
+Cjs-Message: 16:42:25.723: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 4.2 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 16:42:26.006: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 74 ms
+Cjs-Message: 16:42:26.029: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 22 ms
+Cjs-Message: 16:42:26.074: JS LOG: [LookingGlass/info] Loaded applet user@cinnamon.org in 44 ms
+Cjs-Message: 16:42:26.136: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 62 ms
+Cjs-Message: 16:42:26.149: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 12 ms
+Cjs-Message: 16:42:26.205: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 56 ms
+Cjs-Message: 16:42:26.220: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 16:42:26.255: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 50 ms
+Cjs-Message: 16:42:26.349: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 16:42:26.353: JS LOG: [LookingGlass/info] Loaded applet panel-launchers@cinnamon.org in 96 ms
+Cjs-Message: 16:42:26.380: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 28 ms
+Cjs-Message: 16:42:26.403: JS LOG: [LookingGlass/info] Loaded applet window-list@cinnamon.org in 22 ms
+Cjs-Message: 16:42:26.495: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 92 ms
+Cjs-Message: 16:42:26.623: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 128 ms
+Cjs-Message: 16:42:27.303: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 678 ms
+Cjs-Message: 16:42:27.303: JS LOG: [LookingGlass/info] AppletManager started in 1632 ms
+Cjs-Message: 16:42:27.307: JS LOG: [LookingGlass/info] Cinnamon took 2028 ms to start
+Cjs-Message: 16:42:27.355: JS LOG: Invalid network device type, is 14
+Cjs-Message: 16:42:27.640: JS LOG: [LookingGlass/info] Hiding systray: network
+Cjs-Message: 16:42:30.529: JS LOG: [LookingGlass/info] Adding systray: blueberry-tray.py (24x24px)
+Cjs-Message: 16:42:45.701: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:42:48.933: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:42:48.934: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:42:48.943: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:42:48.949: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:42:48.949: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:42:48.958: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:43:21.943: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:43:21.943: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:43:21.953: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:04.959: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:04.959: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:44:04.969: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:04.978: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:04.978: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:44:04.990: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:57.958: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:44:57.958: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:44:57.964: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:46:00.969: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:46:00.969: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:46:00.978: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:46:00.986: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:46:00.986: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:46:00.996: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:47:03.973: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:47:03.973: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:47:03.981: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:48:06.956: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:48:06.956: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:48:06.966: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:48:06.975: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:48:06.975: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:48:06.985: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:50:12.953: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:50:12.953: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:50:12.957: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:50:12.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:50:12.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:50:12.966: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:51:15.970: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:51:15.970: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:51:15.975: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:51:15.980: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:51:15.980: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:51:15.989: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:52:18.938: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:52:18.939: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:52:18.944: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:53:21.951: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:53:21.951: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:53:21.956: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:53:21.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:53:21.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:53:21.968: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:54:24.935: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:54:24.935: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:54:24.941: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:54:24.946: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:54:24.946: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:54:24.951: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:55:27.971: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:55:27.971: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:55:27.975: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:55:27.978: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:55:27.979: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:55:27.983: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:56:30.949: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:56:30.949: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:56:30.955: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:56:30.959: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:56:30.959: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:56:30.965: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:57:33.919: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:57:33.919: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:57:33.926: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:58:36.972: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:58:36.972: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:58:36.978: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:58:36.983: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:58:36.983: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:58:36.992: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:59:39.975: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:59:39.975: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:59:39.984: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:59:39.994: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:59:39.994: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:59:40.004: Can't set a parent on widget which has a parent
+Cinnamon warning: Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x380001c not in stack
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:00:42.985: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:00:42.985: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:00:42.993: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:00:43.002: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:00:43.002: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:00:43.013: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:45.965: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:45.965: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:01:45.981: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:45.995: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:45.995: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:01:46.007: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.923: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.923: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:01:52.933: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.946: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.946: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:01:52.953: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:01:52.961: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:01:52.968: Can't set a parent on widget which has a parent
+nm-applet-Message: 17:01:52.972: No keyring secrets found for Автоматически настроить netis_2.4G_EA48B6/802-11-wireless-security; asking user.
+Gtk-Message: 17:01:53.272: GtkDialog mapped without a transient parent. This is discouraged.
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:13.701: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:13.701: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:13.708: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.569: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.569: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:14.579: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.585: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.585: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:14.592: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.632: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:14.632: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:14.640: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.271: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.271: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:16.285: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.297: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.298: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:16.311: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.321: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:16.321: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:16.329: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:17.563: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 17:02:17.563: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 17:02:17.570: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 14:06:03.596: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 14:06:03.596: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 14:06:03.604: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 14:06:33.607: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 14:06:33.607: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 14:06:33.611: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:02:18.755: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:02:18.755: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:02:18.759: Can't set a parent on widget which has a parent
+Cjs-Message: 16:04:03.103: JS LOG: wireless_set_enabled
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:03.571: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:03.571: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:03.575: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:03.579: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:03.579: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:03.582: Can't set a parent on widget which has a parent
+Cjs-Message: 16:04:04.778: JS LOG: wireless_set_enabled
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:04.805: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:04.805: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:04.809: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:04.845: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:04.845: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:04.848: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.806: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.806: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.813: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.822: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.822: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.828: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.837: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.837: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.844: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.849: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.849: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.854: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.895: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.895: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.901: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.967: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.967: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.978: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.987: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:05.987: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:05.997: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:06.005: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:06.005: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:06.014: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:06.245: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:04:06.245: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:04:06.257: Can't set a parent on widget which has a parent
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:08:19.419: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-CRITICAL **: 16:08:19.419: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1517): Gtk-WARNING **: 16:08:19.423: Can't set a parent on widget which has a parent
+Cinnamon warning: Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x4c00045 not in stack
+Cinnamon warning: Log level 16: STACK_OP_LOWER_BELOW: sibling window 0x4c00045 not in stack
+Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5800001 (Atom)

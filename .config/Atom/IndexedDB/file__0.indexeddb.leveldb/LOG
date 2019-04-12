@@ -1,0 +1,3 @@
+2019/04/12-17:05:31.978 4895 Reusing MANIFEST /home/oem/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/04/12-17:05:31.978 4895 Recovering log #3
+2019/04/12-17:05:31.981 4895 Reusing old log /home/oem/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 

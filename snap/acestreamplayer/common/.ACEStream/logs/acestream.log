@@ -1,0 +1,362 @@
+2019-02-19 23:50:16,749|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-19 23:50:16,766|MainThread|acestream|platform=linux
+2019-02-19 23:50:16,766|MainThread|acestream|app=acestream
+2019-02-19 23:50:16,766|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-19 23:50:16,766|MainThread|acestream|use_local_db=True
+2019-02-19 23:50:16,766|MainThread|acestream|use_m2crypto=True
+2019-02-19 23:50:16,777|MainThread|acestream|enable debug: 0
+2019-02-19 23:50:16,794|MainThread|acestream|get_default_api_version: 2
+2019-02-19 23:50:16,803|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-19 23:50:16,803|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-19 23:50:16,945|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-19 23:50:16,989|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:48618
+2019-02-19 23:50:16,990|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-19 23:50:16,990|MainThread|acestream.LM|listen on 8621
+2019-02-19 23:50:16,991|MainThread|acestream.localdb|No existing database found. Attempting to creating a new database u'/home/oem/snap/acestreamplayer/common/.ACEStream/sqlite/torrentstream.sdb'
+2019-02-19 23:50:17,047|MainThread|dht|init_bootstrap_nodes: failed to resolve host router.bittorrent.com
+2019-02-19 23:50:17,048|MainThread|dht|init_bootstrap_nodes: failed to resolve host dht.transmissionbt.com
+2019-02-19 23:50:17,094|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-19 23:50:17,636|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-19 23:50:17,671|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:47506
+2019-02-19 23:50:17,672|TrafficStatsSenderThread|acestream.TrafficStatsSender|init: error: <urlopen error [Errno -2] Name or service not known>
+2019-02-19 23:50:17,672|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-19 23:50:17,673|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-19 23:50:17,673|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-20 00:05:30,878|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-20 00:05:30,897|MainThread|acestream|platform=linux
+2019-02-20 00:05:30,897|MainThread|acestream|app=acestream
+2019-02-20 00:05:30,897|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-20 00:05:30,897|MainThread|acestream|use_local_db=True
+2019-02-20 00:05:30,898|MainThread|acestream|use_m2crypto=True
+2019-02-20 00:05:30,908|MainThread|acestream|enable debug: 0
+2019-02-20 00:05:30,924|MainThread|acestream|get_default_api_version: 2
+2019-02-20 00:05:30,933|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-20 00:05:30,933|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-20 00:05:31,078|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-20 00:05:31,124|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:46803
+2019-02-20 00:05:31,125|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-20 00:05:31,125|MainThread|acestream.LM|listen on 8621
+2019-02-20 00:05:31,216|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-20 00:05:31,718|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-20 00:05:31,768|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:40053
+2019-02-20 00:05:31,768|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-20 00:05:31,768|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-20 00:05:31,769|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-21 14:02:21,111|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-21 14:02:21,128|MainThread|acestream|platform=linux
+2019-02-21 14:02:21,128|MainThread|acestream|app=acestream
+2019-02-21 14:02:21,128|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-21 14:02:21,129|MainThread|acestream|use_local_db=True
+2019-02-21 14:02:21,129|MainThread|acestream|use_m2crypto=True
+2019-02-21 14:02:21,139|MainThread|acestream|enable debug: 0
+2019-02-21 14:02:21,158|MainThread|acestream|get_default_api_version: 2
+2019-02-21 14:02:21,168|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-21 14:02:21,168|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-21 14:02:21,327|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-21 14:02:21,387|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:50916
+2019-02-21 14:02:21,387|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-21 14:02:21,388|MainThread|acestream.LM|listen on 8621
+2019-02-21 14:02:22,598|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-21 14:02:23,092|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-21 14:02:23,146|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:53221
+2019-02-21 14:02:23,147|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-21 14:02:23,147|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-21 14:02:23,147|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-22 19:03:49,544|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-22 19:03:49,565|MainThread|acestream|platform=linux
+2019-02-22 19:03:49,566|MainThread|acestream|app=acestream
+2019-02-22 19:03:49,566|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-22 19:03:49,566|MainThread|acestream|use_local_db=True
+2019-02-22 19:03:49,567|MainThread|acestream|use_m2crypto=True
+2019-02-22 19:03:49,578|MainThread|acestream|enable debug: 0
+2019-02-22 19:03:49,595|MainThread|acestream|get_default_api_version: 2
+2019-02-22 19:03:49,607|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-22 19:03:49,607|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-22 19:03:49,758|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-22 19:03:49,796|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:39796
+2019-02-22 19:03:49,797|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-22 19:03:49,797|MainThread|acestream.LM|listen on 8621
+2019-02-22 19:03:49,884|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-22 19:03:50,425|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-22 19:03:50,481|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:38252
+2019-02-22 19:03:50,482|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-22 19:03:50,482|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-22 19:03:50,482|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-22 18:28:48,388|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-22 18:28:48,408|MainThread|acestream|platform=linux
+2019-02-22 18:28:48,408|MainThread|acestream|app=acestream
+2019-02-22 18:28:48,409|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-22 18:28:48,409|MainThread|acestream|use_local_db=True
+2019-02-22 18:28:48,409|MainThread|acestream|use_m2crypto=True
+2019-02-22 18:28:48,423|MainThread|acestream|enable debug: 0
+2019-02-22 18:28:48,447|MainThread|acestream|get_default_api_version: 2
+2019-02-22 18:28:48,460|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-22 18:28:48,460|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-22 18:28:48,652|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-22 18:28:48,699|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:32908
+2019-02-22 18:28:48,699|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-22 18:28:48,700|MainThread|acestream.LM|listen on 8621
+2019-02-22 18:28:48,789|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-22 18:28:49,274|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-22 18:28:49,305|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:51210
+2019-02-22 18:28:49,306|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-22 18:28:49,306|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-22 18:28:49,306|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-23 10:20:25,874|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-23 10:20:25,890|MainThread|acestream|platform=linux
+2019-02-23 10:20:25,891|MainThread|acestream|app=acestream
+2019-02-23 10:20:25,891|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-23 10:20:25,891|MainThread|acestream|use_local_db=True
+2019-02-23 10:20:25,891|MainThread|acestream|use_m2crypto=True
+2019-02-23 10:20:25,904|MainThread|acestream|enable debug: 0
+2019-02-23 10:20:25,923|MainThread|acestream|get_default_api_version: 2
+2019-02-23 10:20:25,936|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-23 10:20:25,936|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-23 10:20:26,113|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-23 10:20:26,163|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:56283
+2019-02-23 10:20:26,164|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-23 10:20:26,164|MainThread|acestream.LM|listen on 8621
+2019-02-23 10:20:30,320|MainThread|dht|init_bootstrap_nodes: failed to resolve host router.bittorrent.com
+2019-02-23 10:20:30,321|MainThread|dht|init_bootstrap_nodes: failed to resolve host dht.transmissionbt.com
+2019-02-23 10:20:30,367|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-23 10:20:30,860|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-23 10:20:30,926|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:47246
+2019-02-23 10:20:30,926|TrafficStatsSenderThread|acestream.TrafficStatsSender|init: error: <urlopen error [Errno -2] Name or service not known>
+2019-02-23 10:20:30,928|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-23 10:20:30,928|Instance2InstanceThread-31|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-23 10:20:30,928|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-23 08:35:51,766|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-23 08:35:51,790|MainThread|acestream|platform=linux
+2019-02-23 08:35:51,791|MainThread|acestream|app=acestream
+2019-02-23 08:35:51,791|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-23 08:35:51,791|MainThread|acestream|use_local_db=True
+2019-02-23 08:35:51,791|MainThread|acestream|use_m2crypto=True
+2019-02-23 08:35:51,806|MainThread|acestream|enable debug: 0
+2019-02-23 08:35:51,830|MainThread|acestream|get_default_api_version: 2
+2019-02-23 08:35:51,843|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-23 08:35:51,843|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-23 08:35:52,013|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-23 08:35:52,059|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:55906
+2019-02-23 08:35:52,060|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-23 08:35:52,060|MainThread|acestream.LM|listen on 8621
+2019-02-23 08:35:53,348|MainThread|dht|init_bootstrap_nodes: failed to resolve host router.bittorrent.com
+2019-02-23 08:35:53,349|MainThread|dht|init_bootstrap_nodes: failed to resolve host dht.transmissionbt.com
+2019-02-23 08:35:53,397|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-23 08:35:53,882|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-23 08:35:53,915|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:44311
+2019-02-23 08:35:53,915|TrafficStatsSenderThread|acestream.TrafficStatsSender|init: error: <urlopen error [Errno -2] Name or service not known>
+2019-02-23 08:35:53,916|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-23 08:35:53,916|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-23 08:35:53,916|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-23 13:28:09,987|ServiceBrowserThread-23|zc|run: got socket error
+2019-02-23 16:41:32,970|ServiceBrowserThread-23|zc|run: got socket error
+2019-02-23 16:41:33,088|ZeroconfThread-21|zc|_reinit_sockets
+2019-02-23 17:46:10,794|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-23 17:46:10,812|MainThread|acestream|platform=linux
+2019-02-23 17:46:10,813|MainThread|acestream|app=acestream
+2019-02-23 17:46:10,813|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-23 17:46:10,813|MainThread|acestream|use_local_db=True
+2019-02-23 17:46:10,813|MainThread|acestream|use_m2crypto=True
+2019-02-23 17:46:10,828|MainThread|acestream|enable debug: 0
+2019-02-23 17:46:10,847|MainThread|acestream|get_default_api_version: 2
+2019-02-23 17:46:10,856|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-23 17:46:10,856|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-23 17:46:11,003|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-23 17:46:11,054|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:41326
+2019-02-23 17:46:11,055|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-23 17:46:11,055|MainThread|acestream.LM|listen on 8621
+2019-02-23 17:46:12,187|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-23 17:46:12,677|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-23 17:46:12,708|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:37228
+2019-02-23 17:46:12,709|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-23 17:46:12,709|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-23 17:46:12,709|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-23 20:44:58,986|ServiceBrowserThread-23|zc|run: got socket error
+2019-02-23 20:44:59,758|ZeroconfThread-21|zc|_reinit_sockets
+2019-02-24 22:34:16,842|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-24 22:34:16,861|MainThread|acestream|platform=linux
+2019-02-24 22:34:16,861|MainThread|acestream|app=acestream
+2019-02-24 22:34:16,861|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-24 22:34:16,862|MainThread|acestream|use_local_db=True
+2019-02-24 22:34:16,862|MainThread|acestream|use_m2crypto=True
+2019-02-24 22:34:16,873|MainThread|acestream|enable debug: 0
+2019-02-24 22:34:16,892|MainThread|acestream|get_default_api_version: 2
+2019-02-24 22:34:16,901|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-24 22:34:16,901|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-24 22:34:17,065|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-24 22:34:17,110|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:41827
+2019-02-24 22:34:17,110|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-24 22:34:17,111|MainThread|acestream.LM|listen on 8621
+2019-02-24 22:34:17,210|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-24 22:34:17,704|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-24 22:34:17,737|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:37970
+2019-02-24 22:34:17,737|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-24 22:34:17,738|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-24 22:34:17,738|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-24 22:34:49,204|ServiceBrowserThread-23|zc|run: got socket error
+2019-02-24 22:34:49,278|ZeroconfThread-21|zc|_reinit_sockets
+2019-02-25 20:13:13,950|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-25 20:13:13,967|MainThread|acestream|platform=linux
+2019-02-25 20:13:13,967|MainThread|acestream|app=acestream
+2019-02-25 20:13:13,967|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-25 20:13:13,968|MainThread|acestream|use_local_db=True
+2019-02-25 20:13:13,968|MainThread|acestream|use_m2crypto=True
+2019-02-25 20:13:13,977|MainThread|acestream|enable debug: 0
+2019-02-25 20:13:13,994|MainThread|acestream|get_default_api_version: 2
+2019-02-25 20:13:14,003|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-25 20:13:14,003|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-25 20:13:14,177|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-25 20:13:14,219|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:59499
+2019-02-25 20:13:14,219|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-25 20:13:14,220|MainThread|acestream.LM|listen on 8621
+2019-02-25 20:13:14,345|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-25 20:13:14,852|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-25 20:13:14,899|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:53950
+2019-02-25 20:13:14,899|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-25 20:13:14,899|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-25 20:13:14,900|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-26 09:05:45,783|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-26 09:05:45,803|MainThread|acestream|platform=linux
+2019-02-26 09:05:45,803|MainThread|acestream|app=acestream
+2019-02-26 09:05:45,803|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-26 09:05:45,804|MainThread|acestream|use_local_db=True
+2019-02-26 09:05:45,804|MainThread|acestream|use_m2crypto=True
+2019-02-26 09:05:45,814|MainThread|acestream|enable debug: 0
+2019-02-26 09:05:45,832|MainThread|acestream|get_default_api_version: 2
+2019-02-26 09:05:45,841|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-26 09:05:45,842|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-26 09:05:46,003|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-26 09:05:46,050|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:47261
+2019-02-26 09:05:46,051|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-26 09:05:46,051|MainThread|acestream.LM|listen on 8621
+2019-02-26 09:05:46,227|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-26 09:05:46,723|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-26 09:05:46,753|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:52343
+2019-02-26 09:05:46,753|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-26 09:05:46,754|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-02-26 09:05:46,754|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-27 11:21:00,010|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-02-27 11:21:00,032|MainThread|acestream|platform=linux
+2019-02-27 11:21:00,033|MainThread|acestream|app=acestream
+2019-02-27 11:21:00,033|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-02-27 11:21:00,033|MainThread|acestream|use_local_db=True
+2019-02-27 11:21:00,034|MainThread|acestream|use_m2crypto=True
+2019-02-27 11:21:00,046|MainThread|acestream|enable debug: 0
+2019-02-27 11:21:00,063|MainThread|acestream|get_default_api_version: 2
+2019-02-27 11:21:00,072|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-02-27 11:21:00,072|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-02-27 11:21:00,237|MainThread|acestream.coreapp|cannot load session config, use default
+2019-02-27 11:21:00,282|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:45527
+2019-02-27 11:21:00,283|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-02-27 11:21:00,283|MainThread|acestream.LM|listen on 8621
+2019-02-27 11:21:01,346|MainThread|dht|init_bootstrap_nodes: failed to resolve host router.bittorrent.com
+2019-02-27 11:21:01,347|MainThread|dht|init_bootstrap_nodes: failed to resolve host dht.transmissionbt.com
+2019-02-27 11:21:01,392|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-02-27 11:21:01,889|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-02-27 11:21:01,918|TrafficStatsSenderThread|acestream.TrafficStatsSender|init: error: <urlopen error [Errno -2] Name or service not known>
+2019-02-27 11:21:01,919|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:47875
+2019-02-27 11:21:01,919|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-02-27 11:21:01,920|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-02-27 11:21:01,920|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-01 11:40:19,073|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-03-01 11:40:19,096|MainThread|acestream|platform=linux
+2019-03-01 11:40:19,097|MainThread|acestream|app=acestream
+2019-03-01 11:40:19,097|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-03-01 11:40:19,097|MainThread|acestream|use_local_db=True
+2019-03-01 11:40:19,098|MainThread|acestream|use_m2crypto=True
+2019-03-01 11:40:19,112|MainThread|acestream|enable debug: 0
+2019-03-01 11:40:19,137|MainThread|acestream|get_default_api_version: 2
+2019-03-01 11:40:19,150|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-03-01 11:40:19,156|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-03-01 11:40:19,447|MainThread|acestream.coreapp|cannot load session config, use default
+2019-03-01 11:40:19,489|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:54602
+2019-03-01 11:40:19,490|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-03-01 11:40:19,490|MainThread|acestream.LM|listen on 8621
+2019-03-01 11:40:19,615|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-03-01 11:40:20,134|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-03-01 11:40:20,176|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:58947
+2019-03-01 11:40:20,177|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-03-01 11:40:20,177|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-03-01 11:40:20,177|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-02 12:45:37,119|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-03-02 12:45:37,136|MainThread|acestream|platform=linux
+2019-03-02 12:45:37,137|MainThread|acestream|app=acestream
+2019-03-02 12:45:37,137|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-03-02 12:45:37,137|MainThread|acestream|use_local_db=True
+2019-03-02 12:45:37,138|MainThread|acestream|use_m2crypto=True
+2019-03-02 12:45:37,150|MainThread|acestream|enable debug: 0
+2019-03-02 12:45:37,167|MainThread|acestream|get_default_api_version: 2
+2019-03-02 12:45:37,177|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-03-02 12:45:37,177|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-03-02 12:45:37,419|MainThread|acestream.coreapp|cannot load session config, use default
+2019-03-02 12:45:37,470|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:35804
+2019-03-02 12:45:37,471|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-03-02 12:45:37,471|MainThread|acestream.LM|listen on 8621
+2019-03-02 12:45:37,570|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-03-02 12:45:38,073|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-03-02 12:45:38,119|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:33635
+2019-03-02 12:45:38,119|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-03-02 12:45:38,120|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-03-02 12:45:38,120|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-02 12:46:09,411|ZeroconfThread-21|zc|_reinit_sockets
+2019-03-03 10:46:16,993|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-03-03 10:46:17,011|MainThread|acestream|platform=linux
+2019-03-03 10:46:17,012|MainThread|acestream|app=acestream
+2019-03-03 10:46:17,012|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-03-03 10:46:17,013|MainThread|acestream|use_local_db=True
+2019-03-03 10:46:17,013|MainThread|acestream|use_m2crypto=True
+2019-03-03 10:46:17,027|MainThread|acestream|enable debug: 0
+2019-03-03 10:46:17,049|MainThread|acestream|get_default_api_version: 2
+2019-03-03 10:46:17,062|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-03-03 10:46:17,063|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-03-03 10:46:17,225|MainThread|acestream.coreapp|cannot load session config, use default
+2019-03-03 10:46:17,273|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:43036
+2019-03-03 10:46:17,274|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-03-03 10:46:17,274|MainThread|acestream.LM|listen on 8621
+2019-03-03 10:46:17,363|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-03-03 10:46:17,859|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-03-03 10:46:17,910|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:56897
+2019-03-03 10:46:17,910|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-03-03 10:46:17,910|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-03-03 10:46:17,911|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-12 20:02:09,577|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-03-12 20:02:09,596|MainThread|acestream|platform=linux
+2019-03-12 20:02:09,596|MainThread|acestream|app=acestream
+2019-03-12 20:02:09,596|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-03-12 20:02:09,596|MainThread|acestream|use_local_db=True
+2019-03-12 20:02:09,596|MainThread|acestream|use_m2crypto=True
+2019-03-12 20:02:09,606|MainThread|acestream|enable debug: 0
+2019-03-12 20:02:09,624|MainThread|acestream|get_default_api_version: 2
+2019-03-12 20:02:09,635|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-03-12 20:02:09,635|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-03-12 20:02:09,783|MainThread|acestream.coreapp|cannot load session config, use default
+2019-03-12 20:02:09,822|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:37149
+2019-03-12 20:02:09,822|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-03-12 20:02:09,822|MainThread|acestream.LM|listen on 8621
+2019-03-12 20:02:09,925|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-03-12 20:02:10,439|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-03-12 20:02:10,494|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:38895
+2019-03-12 20:02:10,495|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-03-12 20:02:10,495|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-03-12 20:02:10,495|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-12 22:21:05,591|MainThread|acestream|init segmenter done: log_path=/home/oem/snap/acestreamplayer/common/.ACEStream/logs/segmenter.log
+2019-03-12 22:21:05,611|MainThread|acestream|platform=linux
+2019-03-12 22:21:05,611|MainThread|acestream|app=acestream
+2019-03-12 22:21:05,612|MainThread|acestream|version=3.1.16 code=3011600 revision=3258 date=2017-02-08
+2019-03-12 22:21:05,612|MainThread|acestream|use_local_db=True
+2019-03-12 22:21:05,612|MainThread|acestream|use_m2crypto=True
+2019-03-12 22:21:05,628|MainThread|acestream|enable debug: 0
+2019-03-12 22:21:05,652|MainThread|acestream|get_default_api_version: 2
+2019-03-12 22:21:05,666|MainThread|acestream.coreapp|use fixed i2i_port: 62062
+2019-03-12 22:21:05,666|MainThread|acestream.coreapp|state_dir=u'/home/oem/snap/acestreamplayer/common/.ACEStream'
+2019-03-12 22:21:05,841|MainThread|acestream.coreapp|cannot load session config, use default
+2019-03-12 22:21:05,886|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:46667
+2019-03-12 22:21:05,886|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=8621
+2019-03-12 22:21:05,886|MainThread|acestream.LM|listen on 8621
+2019-03-12 22:21:06,013|MainThread|acestream.VideoServer|start: addr= port=6878 allow_remote=0 allow_intranet=1
+2019-03-12 22:21:06,527|MainThread|acestream.lang|setting up languages: default=en_EN.lang system=ru_RU
+2019-03-12 22:21:06,577|MainThread|acestream.SocketHandler.InterruptSocket|bound on 127.0.0.1:35966
+2019-03-12 22:21:06,578|MainThread|acestream.SocketHandler.SocketHandler|bind: socket bound: host=0.0.0.0 port=62062
+2019-03-12 22:21:06,579|Instance2InstanceThread-30|acestream.APIServer|run: ready to receive remote commands on 62062
+2019-03-12 22:21:06,579|MainThread|acestream.gtk_app|init: icon_path=/snap/acestreamplayer/7/opt/acestream/data/images/acestream16.png
+2019-03-12 22:21:37,250|ZeroconfThread-21|zc|_reinit_sockets
